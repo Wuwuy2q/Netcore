@@ -1,0 +1,3 @@
+type: dotnetcore:2.2
+build:
+  publish: /output
